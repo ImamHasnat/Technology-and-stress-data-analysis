@@ -1,2 +1,1 @@
-# technology-and-stress-data-analysis
-A data science project analyzing the impact of technology usage on stress level
+This Project is R analysis of technology usage and its impact on stress levels, including data visualization, preprocessing, outlier detection, and data transformation
