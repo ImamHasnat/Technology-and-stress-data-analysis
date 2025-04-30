@@ -2,7 +2,7 @@
 # Technology and Stress Level Analysis
 
 ## Description
-A data science project analyzing the impact of technology usage on stress levels. Includes data visualization, data preprocessing, outlier detection, and data transformation.
+A data science project analyzing the impact of technology usage on stress levels using R Includes data visualization, data preprocessing, outlier detection, and data transformation.
 
 ## Dataset
 The dataset can be found [here](https://drive.google.com/uc?export=download&id=1d8bEgUisDBY-2qC9Csy4qm3d_th_l9PN)
