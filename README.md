@@ -12,7 +12,7 @@ The dataset can be found [here](https://drive.google.com/uc?export=download&id=1
 1. Clone the repository:  
    `git clone https://github.com/ImamHasnat/Technology-and-stress-data-analysis.git`
 
-2. Open and run the `noteebook.Rmd` file in RStudio.
+2. Open and run the `noteeebook.Rmd` file in RStudio.
 
 
 ### What I Learned:
